@@ -15,9 +15,17 @@ dependencies:
     sdk: flutter
   bonsoir: ^6.0.0
   record: ^6.1.1
-  flutter_sound: ^10.3.8
+  flutter_sound: ^9.30.0
   network_info_plus: ^6.0.0
   permission_handler: ^11.3.1
+  audio_session: ^0.1.25
+
+topics:
+  - communication
+  - wifi
+  - walkie-talkie
+  - p2p
+  - audio
 
 dev_dependencies:
   flutter_test:
