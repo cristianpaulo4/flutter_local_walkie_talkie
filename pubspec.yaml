@@ -1,7 +1,10 @@
 name: flutter_local_walkie_talkie
-description: "A new Flutter package project."
+description: A Flutter package for local Wi-Fi peer-to-peer (P2P) voice communication using UDP and mDNS.
 version: 1.0.0
-homepage:
+homepage: https://github.com/cristianpaulo4/flutter_local_walkie_talkie
+repository: https://github.com/cristianpaulo4/flutter_local_walkie_talkie
+issue_tracker: https://github.com/cristianpaulo4/flutter_local_walkie_talkie/issues
+
 
 environment:
   sdk: ^3.11.4

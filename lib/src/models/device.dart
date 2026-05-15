@@ -1,7 +1,15 @@
+/// Represents a discovered Walkie Talkie device on the local network.
 class WalkieTalkieDevice {
+  /// The unique identifier of the device (usually the service name).
   final String id;
+
+  /// The human-readable name of the device.
   final String name;
+
+  /// The IP address of the device.
   final String ip;
+
+  /// The port on which the device is listening for audio data.
   final int port;
 
   WalkieTalkieDevice({
